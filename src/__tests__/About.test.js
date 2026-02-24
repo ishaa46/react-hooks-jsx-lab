@@ -43,3 +43,7 @@ test("renders a <img> element with the correct attributes", () => {
   expect(img).toBeInTheDocument();
   expect(img).toHaveAttribute("src", image);
 });
+
+
+
+
